@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm Ilya</h1>
-<h3 align="center">Beginner mobile developer</h3>
+<h3 align="center">Beginner mobile and backend developer</h3>
 
 ## My preferences:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
