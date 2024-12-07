@@ -1,4 +1,4 @@
-<h1 align="center">Hello world!. I'm Ilya</h1>
+<h1 align="center">Hello world! I'm Ilya</h1>
 <h3 align="center">Beginner mobile developer</h3>
 
 ## My preferences:
